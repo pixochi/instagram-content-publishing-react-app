@@ -1,0 +1,13 @@
+.table-step {
+    margin: 0 auto;
+    margin-top: 16px;
+    border-collapse: collapse;
+}
+
+table { table-layout: fixed; width:100% }
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  overflow: auto; overflow-y:hidden
+}
